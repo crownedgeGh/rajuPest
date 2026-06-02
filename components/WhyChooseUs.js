@@ -10,7 +10,7 @@ import {
 } from 'react-icons/fa';
 import { MdVerified } from 'react-icons/md';
 
-const PHONE = '+919153615693';
+const PHONE = '+917667820595';
 
 const benefits = [
     {

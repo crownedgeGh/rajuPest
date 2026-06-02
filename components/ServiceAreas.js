@@ -1,6 +1,6 @@
 import { FaMapMarkerAlt, FaPhone } from 'react-icons/fa';
 
-const PHONE = '+919153615693';
+const PHONE = '+917667820595';
 
 const areas = [
     'Bokaro Steel City',

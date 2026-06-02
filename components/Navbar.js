@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import { FaBug, FaPhone, FaBars, FaTimes, FaChevronDown } from 'react-icons/fa';
 
-const PHONE = '+919153615693';
+const PHONE = '+917667820595';
 const PHONE_DISPLAY = '7667820595';
 
 const navLinks = [

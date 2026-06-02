@@ -2,7 +2,7 @@ import { FaPhone, FaSearch, FaCheckCircle, FaArrowRight } from 'react-icons/fa';
 import { MdSchedule } from 'react-icons/md';
 import { GiSpray } from 'react-icons/gi';
 
-const PHONE = '+919153615693';
+const PHONE = '+917667820595';
 
 const steps = [
     {

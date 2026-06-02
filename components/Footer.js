@@ -1,9 +1,9 @@
 import { FaBug, FaPhone, FaMapMarkerAlt, FaClock, FaHeart } from 'react-icons/fa';
 import { MdVerified } from 'react-icons/md';
 
-const PHONE = '+919153615693';
+const PHONE = '+917667820595';
 const PHONE_DISPLAY = '7667820595';
-const WHATSAPP = 'https://wa.me/919153615693';
+const WHATSAPP = 'https://wa.me/917667820595';
 
 const services = [
     'Termite Control',
