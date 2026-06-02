@@ -62,7 +62,7 @@ export default function CTABanner() {
                     >
                         <span className="absolute inset-0 rounded-full bg-accent-400 opacity-20 group-hover:opacity-0 animate-ping" />
                         <FaPhone />
-                        Call Now – 91536 15693
+                        Call Now – 7667820595
                     </a>
                     <a
                         href={WHATSAPP}

@@ -57,7 +57,7 @@ export default function FloatingCTA() {
             >
                 {/* Tooltip */}
                 <span className="absolute right-20 bg-gray-900 text-white text-xs font-medium px-3 py-1.5 rounded-lg whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none">
-                    Call: 91536 15693
+                    Call: 7667820595
                     <span className="absolute top-1/2 right-0 translate-x-full -translate-y-1/2 border-4 border-transparent border-l-gray-900" />
                 </span>
                 <FaPhone className="text-white text-xl group-hover:animate-bounce" />

@@ -44,7 +44,7 @@ export default function Hero() {
                     <div className="text-center lg:text-left">
 
                         {/* Top badge */}
-                       
+
                         {/* Main heading */}
                         <h1 className="text-[1.85rem] sm:text-[2.6rem] lg:text-5xl xl:text-[3.25rem] font-extrabold text-white leading-[1.18] mb-4 sm:mb-5">
                             Bokaro Mein{' '}
@@ -58,9 +58,9 @@ export default function Hero() {
                         </h1>
 
                         {/* Description */}
-                       
 
-                      
+
+
 
                         {/* CTA Buttons */}
                         <div className="flex flex-col sm:flex-row gap-3 justify-center lg:justify-start mb-7 sm:mb-9">
@@ -70,7 +70,7 @@ export default function Hero() {
                             >
                                 <span className="absolute inset-0 rounded-2xl bg-accent-400 animate-ping opacity-20 group-hover:opacity-0" />
                                 <FaPhone className="flex-shrink-0 text-sm" />
-                                Call Now – 91536 15693
+                                Call Now – 7667820595
                             </a>
                             <a
                                 href={WHATSAPP}

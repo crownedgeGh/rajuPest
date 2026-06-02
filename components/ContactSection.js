@@ -9,7 +9,7 @@ import {
 import { MdSupportAgent } from 'react-icons/md';
 
 const PHONE = '+919153615693';
-const PHONE_DISPLAY = '91536 15693';
+const PHONE_DISPLAY = '7667820595';
 const WHATSAPP = 'https://wa.me/919153615693?text=Hi%2C%20I%20need%20pest%20control%20service%20in%20Bokaro';
 const ADDRESS = 'Laxmi Market, Bokaro Sector, Bokaro, Jharkhand';
 

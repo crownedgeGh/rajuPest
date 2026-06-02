@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { FaBug, FaPhone, FaBars, FaTimes, FaChevronDown } from 'react-icons/fa';
 
 const PHONE = '+919153615693';
-const PHONE_DISPLAY = '91536 15693';
+const PHONE_DISPLAY = '7667820595';
 
 const navLinks = [
     { label: 'Home', href: '#home' },
@@ -29,8 +29,8 @@ export default function Navbar() {
         <>
             <nav
                 className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${scrolled
-                        ? 'bg-white shadow-xl py-2 border-b border-gray-100'
-                        : 'bg-transparent py-4'
+                    ? 'bg-white shadow-xl py-2 border-b border-gray-100'
+                    : 'bg-transparent py-4'
                     }`}
             >
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
@@ -65,8 +65,8 @@ export default function Navbar() {
                                 key={link.href}
                                 href={link.href}
                                 className={`text-sm font-medium relative group transition-colors duration-200 ${scrolled
-                                        ? 'text-gray-600 hover:text-primary-600'
-                                        : 'text-white/90 hover:text-white'
+                                    ? 'text-gray-600 hover:text-primary-600'
+                                    : 'text-white/90 hover:text-white'
                                     }`}
                             >
                                 {link.label}
@@ -80,8 +80,8 @@ export default function Navbar() {
                         <a
                             href={`tel:${PHONE}`}
                             className={`flex items-center gap-2 text-sm font-semibold px-4 py-2 rounded-full border-2 transition-all duration-300 ${scrolled
-                                    ? 'border-primary-600 text-primary-600 hover:bg-primary-600 hover:text-white'
-                                    : 'border-white/60 text-white hover:bg-white/10'
+                                ? 'border-primary-600 text-primary-600 hover:bg-primary-600 hover:text-white'
+                                : 'border-white/60 text-white hover:bg-white/10'
                                 }`}
                         >
                             <FaPhone className="text-xs" />
@@ -102,8 +102,8 @@ export default function Navbar() {
                     {/* Mobile Hamburger */}
                     <button
                         className={`lg:hidden p-2 rounded-lg transition-colors ${scrolled
-                                ? 'text-gray-700 hover:bg-gray-100'
-                                : 'text-white hover:bg-white/10'
+                            ? 'text-gray-700 hover:bg-gray-100'
+                            : 'text-white hover:bg-white/10'
                             }`}
                         onClick={() => setMobileOpen(!mobileOpen)}
                         aria-label="Toggle menu"

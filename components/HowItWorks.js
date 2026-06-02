@@ -9,7 +9,7 @@ const steps = [
         step: '01',
         icon: FaPhone,
         title: 'Call or WhatsApp Us',
-        desc: 'Call us on 91536 15693 or send a WhatsApp message. Tell us your pest problem and location in Bokaro. We\'ll respond within minutes.',
+        desc: 'Call us on 7667820595 or send a WhatsApp message. Tell us your pest problem and location in Bokaro. We\'ll respond within minutes.',
         highlight: 'Instant Response',
         color: 'from-orange-400 to-accent-600',
         ring: 'ring-orange-200',
@@ -134,7 +134,7 @@ export default function HowItWorks() {
                                 className="inline-flex items-center gap-3 bg-accent-500 hover:bg-accent-600 text-white font-bold px-8 py-4 rounded-full text-base transition-all duration-300 hover:-translate-y-0.5 shadow-xl"
                             >
                                 <FaPhone />
-                                91536 15693
+                                7667820595
                             </a>
                         </div>
                     </div>
